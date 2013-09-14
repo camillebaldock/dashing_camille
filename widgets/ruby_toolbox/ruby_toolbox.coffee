@@ -1,0 +1,1 @@
+class Dashing.RubyToolbox extends Dashing.Widget

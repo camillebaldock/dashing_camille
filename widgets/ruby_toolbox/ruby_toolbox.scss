@@ -1,0 +1,41 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color:  #a61414;
+$value-color:       #fff;
+
+$title-color:       rgba(255, 255, 255, 0.7);
+$label-color:       rgba(255, 255, 255, 0.7);
+$moreinfo-color:    rgba(255, 255, 255, 0.7);
+
+// ----------------------------------------------------------------------------
+// Widget-list styles
+// ----------------------------------------------------------------------------
+#ruby_toolbox {
+
+  background-color: $background-color;
+  vertical-align: top;
+
+  .title {
+    color: $title-color;
+  }
+
+  h4 {
+    margin-bottom:40px;
+  }
+
+  .more-info {
+    color: $moreinfo-color;
+  }
+
+  .description {
+    font-size:16px;
+    padding-top:10px;
+  }
+
+  .gem_note {
+    font-size:14px;
+    text-align:left;
+  }
+
+}

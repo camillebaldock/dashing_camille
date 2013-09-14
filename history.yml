@@ -1,0 +1,67 @@
+---
+valuation: ! 'data: {"current":40,"last":32,"id":"valuation","updatedAt":1379123278}
+
+
+'
+karma: ! 'data: {"current":175006,"last":121045,"id":"karma","updatedAt":1379123278}
+
+
+'
+synergy: ! 'data: {"value":30,"id":"synergy","updatedAt":1379123278}
+
+
+'
+convergence: ! 'data: {"points":[{"x":26,"y":32},{"x":27,"y":10},{"x":28,"y":49},{"x":29,"y":24},{"x":30,"y":45},{"x":31,"y":17},{"x":32,"y":40},{"x":33,"y":17},{"x":34,"y":5},{"x":35,"y":32}],"id":"convergence","updatedAt":1379123277}
+
+
+'
+buzzwords: ! 'data: {"items":[{"label":"Paradigm shift","value":5},{"label":"Leverage","value":2},{"label":"Turn-key","value":2},{"label":"Web
+  2.0","value":4},{"label":"Synergy","value":4},{"label":"Enterprise","value":2},{"label":"Streamlininess","value":2},{"label":"Exit
+  strategy","value":2},{"label":"Pivoting","value":2}],"id":"buzzwords","updatedAt":1379123277}
+
+
+'
+welcome: ! 'data: {"text":"Kaboom!","id":"welcome","updatedAt":1378834553}
+
+
+'
+duolingo: ! 'data: {"items":[{"label":"French","value":1970},{"label":"German","value":700},{"label":"Spanish","value":107}],"id":"duolingo","updatedAt":1379130433}
+
+
+'
+flicker_faves: ! 'data: {"photos":["http://farm9.staticflickr.com/8455/7944486832_467cd9b664_b.jpg","http://farm9.staticflickr.com/8029/8013209943_d3854cb469_b.jpg","http://farm9.staticflickr.com/8312/8023930628_a24f54e24b_b.jpg"],"id":"flicker_faves","updatedAt":1378858693}
+
+
+'
+flicker_public: ! 'data: {"photos":["http://farm4.staticflickr.com/3754/9718659931_630d6843b4_b.jpg"],"id":"flicker_public","updatedAt":1378858958}
+
+
+'
+flicker_friends: ! 'data: {"photos":[],"id":"flicker_friends","updatedAt":1378858958}
+
+
+'
+flickr_faves: ! 'data: {"photos":["http://farm9.staticflickr.com/8455/7944486832_467cd9b664_b.jpg","http://farm9.staticflickr.com/8029/8013209943_d3854cb469_b.jpg","http://farm9.staticflickr.com/8312/8023930628_a24f54e24b_b.jpg"],"id":"flickr_faves","updatedAt":1379130621}
+
+
+'
+flickr_public: ! 'data: {"photos":["http://farm8.staticflickr.com/7447/9736357469_50d5c2ba84_b.jpg","http://farm8.staticflickr.com/7428/9736357877_7bc9a56651_b.jpg"],"id":"flickr_public","updatedAt":1379130621}
+
+
+'
+flickr_friends: ! 'data: {"photos":[],"id":"flickr_friends","updatedAt":1379121845}
+
+
+'
+exchange_calendar: ! 'data: {"events":[{"start":"2013-09-14 05:00:00 +0100","title":"test"},{"start":"2013-09-14
+  12:00:00 +0100","title":"Lunch with John"}],"id":"exchange_calendar","updatedAt":1379130435}
+
+
+'
+ruby_toolbox: ! 'data: {"gem":{"name":"Highlight","description":"Highlight highlights
+  code in more than 20 languages. It uses the Pygments syntax highlighter and adds
+  a simple Ruby API over it. It also provides helpers for use in your Ruby on Rails
+  views."},"id":"ruby_toolbox","updatedAt":1379130591}
+
+
+'

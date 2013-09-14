@@ -1,0 +1,29 @@
+<% content_for :title do %>My super sweet dashboard<% end %>
+<script type='text/javascript'>
+$(function() {
+Dashing.gridsterLayout('[{"col":2,"row":2,"size_x":1,"size_y":1},{"col":1,"row":1,"size_x":2,"size_y":1},{"col":3,"row":2,"size_x":2,"size_y":1},{"col":4,"row":1,"size_x":1,"size_y":1},{"col":3,"row":1,"size_x":1,"size_y":1},{"col":1,"row":2,"size_x":1,"size_y":1}]')
+});
+</script>
+<div class="gridster">
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="flickr_faves" data-view="Flickr" style="background-color:#800080;" data-moreinfo="Favourite photos"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="goldyldn" data-view="Text" data-title="Welcome" data-text="This is Camille's dashboard" data-moreinfo="Find the source for these widgets on Github: @CamilleLDN"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="exchange_calendar" data-view="ExchangeCalendar" style="background-color:#4183C5;"></div>
+      <i class="icon-calendar icon-background"></i>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="duolingo" data-view="List" data-unordered="true" data-title="Duolingo" data-moreinfo="# of points per language"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="flickr_public" data-view="Flickr" style="background-color:#96bf48;" data-moreinfo="My public photos"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="ruby_toolbox" id="ruby_toolbox" data-view="RubyToolbox" data-moreinfo="A different gem every hour from Ruby-toolbox.com"></div>
+    </li>
+  </ul>
+</div>
