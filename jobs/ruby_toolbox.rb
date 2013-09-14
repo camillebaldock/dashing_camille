@@ -2,7 +2,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'typhoeus'
 
-SCHEDULER.every '30s' do |job|
+SCHEDULER.every '1m' do |job|
 	doc=Nokogiri::HTML(open("https://www.ruby-toolbox.com/categories/by_name"))
 	category_links = doc.css('#content ul.group_items>li>a')
 	hydra = Typhoeus::Hydra.new

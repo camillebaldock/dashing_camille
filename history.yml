@@ -25,7 +25,7 @@ welcome: ! 'data: {"text":"Kaboom!","id":"welcome","updatedAt":1378834553}
 
 
 '
-duolingo: ! 'data: {"items":[{"label":"French","value":1970},{"label":"German","value":700},{"label":"Spanish","value":107}],"id":"duolingo","updatedAt":1379130433}
+duolingo: ! 'data: {"items":[{"label":"French","value":1970},{"label":"German","value":700},{"label":"Spanish","value":107}],"id":"duolingo","updatedAt":1379165699}
 
 
 '
@@ -41,11 +41,11 @@ flicker_friends: ! 'data: {"photos":[],"id":"flicker_friends","updatedAt":137885
 
 
 '
-flickr_faves: ! 'data: {"photos":["http://farm9.staticflickr.com/8455/7944486832_467cd9b664_b.jpg","http://farm9.staticflickr.com/8029/8013209943_d3854cb469_b.jpg","http://farm9.staticflickr.com/8312/8023930628_a24f54e24b_b.jpg"],"id":"flickr_faves","updatedAt":1379130621}
+flickr_faves: ! 'data: {"photos":["http://farm9.staticflickr.com/8003/7684079804_b9d461da3a_b.jpg","http://farm9.staticflickr.com/8288/7724794648_4def185bd3_b.jpg","http://farm9.staticflickr.com/8443/7751323838_8fb47dcb91_b.jpg","http://farm9.staticflickr.com/8440/7931832934_dd2d1e6015_b.jpg","http://farm9.staticflickr.com/8459/7967492680_e6e1f4b55b_b.jpg","http://farm9.staticflickr.com/8299/8011730628_fd29713b41_b.jpg","http://farm9.staticflickr.com/8459/8020272673_8478cc3c85_b.jpg","http://farm9.staticflickr.com/8455/7944486832_467cd9b664_b.jpg"],"id":"flickr_faves","updatedAt":1379165744}
 
 
 '
-flickr_public: ! 'data: {"photos":["http://farm8.staticflickr.com/7447/9736357469_50d5c2ba84_b.jpg","http://farm8.staticflickr.com/7428/9736357877_7bc9a56651_b.jpg"],"id":"flickr_public","updatedAt":1379130621}
+flickr_public: ! 'data: {"photos":["http://farm8.staticflickr.com/7447/9736357469_50d5c2ba84_b.jpg","http://farm8.staticflickr.com/7428/9736357877_7bc9a56651_b.jpg"],"id":"flickr_public","updatedAt":1379165744}
 
 
 '
@@ -53,15 +53,16 @@ flickr_friends: ! 'data: {"photos":[],"id":"flickr_friends","updatedAt":13791218
 
 
 '
-exchange_calendar: ! 'data: {"events":[{"start":"2013-09-14 05:00:00 +0100","title":"test"},{"start":"2013-09-14
-  12:00:00 +0100","title":"Lunch with John"}],"id":"exchange_calendar","updatedAt":1379130435}
+exchange_calendar: ! 'data: {"events":[{"start":"2013-09-14 19:30:00 +0100","title":"Awesome
+  event"}],"id":"exchange_calendar","updatedAt":1379165639}
 
 
 '
-ruby_toolbox: ! 'data: {"gem":{"name":"Highlight","description":"Highlight highlights
-  code in more than 20 languages. It uses the Pygments syntax highlighter and adds
-  a simple Ruby API over it. It also provides helpers for use in your Ruby on Rails
-  views."},"id":"ruby_toolbox","updatedAt":1379130591}
+ruby_toolbox: ! 'data: {"gem":{"name":"Haml","description":"Haml (HTML Abstraction
+  Markup Language) is a layer on top of HTML or XML that''s designed to express the
+  structure of documents in a non-repetitive, elegant, and easy way by using indentation
+  rather than closing tags and allowing Ruby to be embedded with ease. It was originally
+  envisioned as a plugin"},"id":"ruby_toolbox","updatedAt":1379165691}
 
 
 '
